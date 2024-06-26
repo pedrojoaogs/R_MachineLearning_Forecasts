@@ -1,9 +1,6 @@
 # R_MachineLearning_Forecast
 Brazilian Load Generation - Machine Learning
 
-Aqui está o código com as instruções traduzidas para inglês:
-
-```r
 # Clear R environment 
 
 rm(list=ls())
